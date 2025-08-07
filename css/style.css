@@ -30,8 +30,6 @@ margin-right: auto;
 }
 
 
-
-
 /* SITE HEADER/ */
 .site-header {
 padding-top: 24px;
@@ -66,8 +64,6 @@ padding-bottom: 24px;
 }
 
 
-
-
 /* SITE LOGO */
 .site-logo {
   display: flex;
@@ -99,11 +95,11 @@ color: #DE2E54;
  border-radius: 50%;
 }
 .main-link {
-  display: inline-block;
-  text-decoration: none;
-  border-radius: 8px;
-  padding: 10px 22px;
-  border: 2px solid transparent;
+display: inline-block;
+text-decoration: none;
+border-radius: 8px;
+padding: 10px 22px;
+border: 2px solid transparent;
 font-weight: 700;
 font-size: 15px;
 letter-spacing: 2px;
@@ -144,7 +140,6 @@ opacity: 0.8;
 }
 
 
-
 /* HERO */
 .hero {
   background-color: #0EB4C1;
@@ -175,7 +170,6 @@ font-weight: 500;
 .hero-img {
 align-self: flex-end;
 }
-
 
 
 /* CTA */
@@ -262,9 +256,6 @@ margin-bottom: 80px;
 margin-top: 0;
 margin-bottom: 24px;
 }
-
-
-
 
 
 /* SITE FOOTER */
